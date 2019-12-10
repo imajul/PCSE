@@ -1,2 +1,2 @@
 # PCSE
-Trabajjo práctico Protocolos de comunicación
+Trabajo práctico Protocolos de comunicación
